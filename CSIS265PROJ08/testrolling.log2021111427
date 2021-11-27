@@ -1,0 +1,17 @@
+2021-11-27 06:14:12,716 [6] DEBUG (MyLogger:29) --  first time page is being loaded...
+2021-11-27 06:14:20,130 [6] DEBUG (MyLogger:23) -- page is being posted back
+2021-11-27 06:14:20,132 [6] DEBUG (MyLogger:55) -- length is: 33
+2021-11-27 06:14:20,133 [6] DEBUG (MyLogger:56) -- width is: 1234
+2021-11-27 06:14:25,008 [6] DEBUG (MyLogger:23) -- page is being posted back
+2021-11-27 06:14:25,008 [6] DEBUG (MyLogger:55) -- length is: 98
+2021-11-27 06:14:25,009 [6] DEBUG (MyLogger:56) -- width is: 67
+2021-11-27 06:14:31,890 [10] DEBUG (MyLogger:23) -- page is being posted back
+2021-11-27 06:14:31,909 [10] DEBUG (MyLogger:62) -- exception is: Input string was not in a correct format.
+2021-11-27 06:14:39,160 [6] DEBUG (MyLogger:23) -- page is being posted back
+2021-11-27 06:14:39,160 [6] DEBUG (MyLogger:55) -- length is: 554
+2021-11-27 06:14:39,161 [6] DEBUG (MyLogger:56) -- width is: 55
+2021-11-27 06:14:44,328 [6] DEBUG (MyLogger:23) -- page is being posted back
+2021-11-27 06:14:44,329 [6] DEBUG (MyLogger:55) -- length is: 0
+2021-11-27 06:14:44,329 [6] DEBUG (MyLogger:56) -- width is: 0
+2021-11-27 06:14:45,339 [12] DEBUG (MyLogger:23) -- page is being posted back
+2021-11-27 06:14:45,340 [12] DEBUG (MyLogger:73) -- message is: TTL perm: 4082 TTL area: 77758 AVG perm: 1020.5 AVG area: 19439.5
