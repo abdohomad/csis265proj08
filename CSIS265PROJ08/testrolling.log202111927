@@ -1,0 +1,17 @@
+2021-11-27 06:09:06,808 [6] DEBUG (MyLogger:29) --  first time page is being loaded...
+2021-11-27 06:09:16,576 [11] DEBUG (MyLogger:23) -- page is being posted back
+2021-11-27 06:09:16,579 [11] DEBUG (MyLogger:55) -- length is: 2
+2021-11-27 06:09:16,580 [11] DEBUG (MyLogger:56) -- width is: 22
+2021-11-27 06:09:23,702 [6] DEBUG (MyLogger:23) -- page is being posted back
+2021-11-27 06:09:23,715 [6] DEBUG (MyLogger:62) -- Input string was not in a correct format.
+2021-11-27 06:09:28,646 [6] DEBUG (MyLogger:23) -- page is being posted back
+2021-11-27 06:09:28,647 [6] DEBUG (MyLogger:55) -- length is: 33
+2021-11-27 06:09:28,647 [6] DEBUG (MyLogger:56) -- width is: 22
+2021-11-27 06:09:33,183 [6] DEBUG (MyLogger:23) -- page is being posted back
+2021-11-27 06:09:33,184 [6] DEBUG (MyLogger:55) -- length is: 344
+2021-11-27 06:09:33,184 [6] DEBUG (MyLogger:56) -- width is: 12
+2021-11-27 06:09:37,886 [6] DEBUG (MyLogger:23) -- page is being posted back
+2021-11-27 06:09:37,886 [6] DEBUG (MyLogger:55) -- length is: 0
+2021-11-27 06:09:37,887 [6] DEBUG (MyLogger:56) -- width is: 12
+2021-11-27 06:09:40,409 [6] DEBUG (MyLogger:23) -- page is being posted back
+2021-11-27 06:09:40,409 [6] DEBUG (MyLogger:73) -- System.Web.UI.WebControls.Label

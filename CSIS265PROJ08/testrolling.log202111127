@@ -1,0 +1,8 @@
+2021-11-27 06:01:04,477 [6] DEBUG (MyLogger:29) --  first time page is being loaded...
+2021-11-27 06:01:09,256 [6] DEBUG (MyLogger:23) -- page is being posted back
+2021-11-27 06:01:09,266 [6] DEBUG (MyLogger:59) -- System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at CSIS265PROJ08.Calcs.btnAddRectangle_Click(Object sender, EventArgs e) in C:\vsprojects\CSIS265PROJ08\CSIS265PROJ08\Calcs.aspx.cs:line 42
+2021-11-27 06:01:14,854 [6] DEBUG (MyLogger:23) -- page is being posted back
+2021-11-27 06:01:20,166 [7] DEBUG (MyLogger:23) -- page is being posted back
